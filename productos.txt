@@ -1,0 +1,2 @@
+Lapicera,1,500,30/nCuaderno,3,250,15/nGoma,200,40/n
+
